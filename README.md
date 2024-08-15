@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murumlai
 - 👀 I’m interested in machine learning and AI Automation.
-- 🌱 I’m currently learning ML techniques that can be applied to automate repeptitive tasks.
-- 💞️ I’m looking to collaborate on fun AI/ML projects that might help to reduce ever growing work load of a white-collar workers.
+- 🌱 I’m currently learning ML techniques that can be applied to automate repetitive tasks.
+- 💞️ I’m looking to collaborate on fun AI/ML projects that might help to reduce ever growing work load of white-collar workers.
 - 📫 How to reach me @ murukesan.loganathan23@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
